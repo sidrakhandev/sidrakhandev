@@ -27,8 +27,7 @@
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 ### Languages and Tools:
 ---
@@ -43,7 +42,7 @@
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-[website]: sidrakhandev.github.io
+[website]: https://sidrakhandev.github.io/
 [twitter]: https://twitter.com/sidrakhanme
 [instagram]: https://www.instagram.com/sidrakhanme/
 [linkedin]: https://www.linkedin.com/in/sidra-khan-9098a4177/
