@@ -32,7 +32,7 @@
 
 ---
 
-<img align="left" alt="sidrakhandev's Github Stats" src="https://github-readme-stats.vercel.app/api?sidrakhandev=sidrakhandev&show_icons=true&hide_border=true" />
+<img align="left" alt="sidrakhandev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidrakhandev&show_icons=true&hide_border=true" />
 
 [website]: sidrakhandev.github.io
 [twitter]: https://twitter.com/sidrakhanme
