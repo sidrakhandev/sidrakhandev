@@ -3,7 +3,7 @@
 ## I'm a Student, Daughter, Front End Developer, and Content Writer!
 
 - 🔭 I’m currently working on a Open Source Desktop App!
-- 🌱 I’m currently learning everything 🤣 including JavaScript, React ,Content Writing and Azure Fundamentals..
+- 🌱 I’m currently learning everything 🤣....
 - 🥅 2020 Goals: Contribute more to Open Source Projects and Polish Coding Skills
 - ⚡ Fun fact: I love to talk, like tea and ofcourse wrirting!!
 
