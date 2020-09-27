@@ -37,7 +37,6 @@ I am a passionate Computer Scientist from Pakistan,UET LAHORE.🤍💚
 - 🥅 2020 Goals: Contribute more to Open Source projects. Yay!
 - ✨ For myself: Striving for Self recognition. Most difficult one though✌
 <br />
-<br />
 
 **Languages and Tools:** &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
@@ -51,7 +50,7 @@ I am a passionate Computer Scientist from Pakistan,UET LAHORE.🤍💚
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
+<br />
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidrakhandev&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
