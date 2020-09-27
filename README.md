@@ -25,7 +25,7 @@
 <br />
 
 <p align="left">
-  <br><img src="https://badges.pufler.dev/visits/sidrakhandev/sidrakhandev/"><img src="https://badges.pufler.dev/years/sidrakhandev/">
+  <br><img src="https://badges.pufler.dev/years/sidrakhandev/">
 </p>
 
 <br />
