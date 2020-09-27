@@ -28,8 +28,6 @@
   <br><img src="https://badges.pufler.dev/years/sidrakhandev/">
 </p>
 
-<br />
-
 ### WHO AM I! 🤔
 
 I am a passionate Computer Scientist from Pakistan,UET LAHORE.🤍💚
@@ -38,6 +36,8 @@ I am a passionate Computer Scientist from Pakistan,UET LAHORE.🤍💚
 - 👯 I’m looking to collaborate in open source projects✌
 - 🥅 2020 Goals: Contribute more to Open Source projects. Yay!
 - ✨ For myself: Striving for Self recognition. Most difficult one though✌
+<br />
+<br />
 
 **Languages and Tools:** &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
