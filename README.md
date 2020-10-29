@@ -12,7 +12,7 @@
 <a href="https://github.com/sidrakhandev">
   <img align="left" alt="Sidra Khan's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href=" https://www.instagram.com/sidrakhanme/">
+<a href="https://www.instagram.com/sidrakhanme/">
   <img align="left" alt="Sidra Khan's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://medium.com/@sidrakhan567890">
