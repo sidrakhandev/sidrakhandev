@@ -57,7 +57,6 @@ I am a passionate Computer Scientist from Pakistan,UET LAHORE.🤍💚
   <img src="https://github-readme-stats.vercel.app/api?username=sidrakhandev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sidra Khan's GitHub Stats">
 </p>
 
-*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github or I'm currently interested in.*
 
 <br />
 
@@ -65,8 +64,7 @@ I am a passionate Computer Scientist from Pakistan,UET LAHORE.🤍💚
 
 <!-- BLOG-POST-LIST:START -->
 - [How to make API request in FLUTTER](https://medium.com/@sidrakhan567890/how-to-make-api-request-in-flutter-14dae2751dd5)
+ 
 
-## I ❤️ to be alone 
-
-⚡ Fun fact <br>
+⚡ Fav Quote <br>
 “Push yourself, because no one else is going to do it for you."
