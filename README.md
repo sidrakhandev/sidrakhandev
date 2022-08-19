@@ -24,9 +24,6 @@
 
 <br />
 
-<p align="left">
-  <br><img src="https://badges.pufler.dev/years/sidrakhandev/">
-</p>
 
 ### WHO AM I! 🤔
 
