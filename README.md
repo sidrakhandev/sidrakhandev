@@ -27,12 +27,12 @@
 
 ### WHO AM I! 🤔
 
-I am a passionate Computer Scientist from Pakistan,UET LAHORE.🤍💚
-- 💻 Currently, working on some projects, will notify timely😊
+I am a passionate Computer Scientist from Pakistan, UET LAHORE 🤍💚
+- 💻 Currently, working on some projects, will notify timely 😊
 - 🤩 Learning FLutter along side Web Developement 💥
-- 👯 I’m looking to collaborate in open source projects✌
-- 🥅 2020 Goals: Contribute more to Open Source projects. Yay!
-- ✨ For myself: Striving for Self recognition. Most difficult one though✌
+- 👯 I’m looking to collaborate in open source projects ✌
+- 🥅 2022 Goals: Contribute more to Open Source projects. Yay!
+- ✨ For myself: When you push yourself beyond limits, you discover inner reserves, which you never thought existed earlier ✌
 <br />
 
 **Languages and Tools:** &nbsp;
