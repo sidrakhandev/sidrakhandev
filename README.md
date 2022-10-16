@@ -54,6 +54,7 @@ I am a passionate Computer Scientist from Pakistan, UET LAHORE 🤍💚
   <img src="https://github-readme-stats.vercel.app/api?username=sidrakhandev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sidra Khan's GitHub Stats">
 </p>
 
+[![@sidrakhan's Holopin board](https://holopin.me/sidrakhan)](https://holopin.io/@sidrakhan)
 
 <br />
 
