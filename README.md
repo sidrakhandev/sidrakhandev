@@ -56,7 +56,7 @@ I am a passionate Computer Scientist from Pakistan, UET LAHORE 🤍💚
 
 <!--[![@sidrakhan's Holopin board](https://holopin.me/sidrakhan)](https://holopin.io/@sidrakhan)-->
 
-<br />
+<!-- <br /> -->
 
 ### 📕 Latest Blog Post 
 
