@@ -49,10 +49,10 @@ I am a passionate Computer Scientist from Pakistan, UET LAHORE 🤍💚
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <br />
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidrakhandev&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=sidrakhandev&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sidra Khan's GitHub Stats">
-</p>
+</p> -->
 
 <!--[![@sidrakhan's Holopin board](https://holopin.me/sidrakhan)](https://holopin.io/@sidrakhan)-->
 
