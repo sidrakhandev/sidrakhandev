@@ -1,4 +1,5 @@
 <p align="center"> <img src="https://octodex.github.com/images/filmtocats.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/deckfailcat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrakhandev&label=Profile%20views&color=0e75b6&style=flat" alt="Sidra Khan" /> </p>
 
 
 ### Hello There!! [Sidra Khan!](https://sidrakhandev.github.io/) here <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving">
